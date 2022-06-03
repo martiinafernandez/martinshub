@@ -1,0 +1,1 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="Gs~ZZwfV~lqrUBO,~n-|" x="0" y="0"><statement name="HANDLER"><block type="mixer_play_sound" id="!5I8+UrCA;xTD|pey`sr"><field name="sound">music.thump</field></block></statement></block></xml>
